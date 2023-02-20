@@ -13,11 +13,9 @@ Skills: PYTHON / JAVA / SQL
 
 - 🌱 I’m currently learning Python / Java  
 
-
   
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ptitlu42&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ptitlu42&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ptitlu42&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ptitlu42&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ptitlu42&theme=2077) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptitlu42)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ptitlu42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucasdev42/)
 
