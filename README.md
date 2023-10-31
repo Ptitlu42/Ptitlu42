@@ -1,10 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Ptitlu42) 
 
 
-I am a student at **EPSI** Rennes
-
-I am currently studying at EPSI Rennes in Cybersecurity.
-I’m looking for an alternation in AI development.
+I am currently a student at **EPSI**, working in a work-study program at the **Nicely** company.
 
 Skills: PYTHON / JAVA / SQL / HTML / CSS
 
