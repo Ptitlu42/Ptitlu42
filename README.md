@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/Ptitlu42) 
-
 
 I am currently a student at **EPSI**, working in a work-study program at the **Nicely** company.
 
