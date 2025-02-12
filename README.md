@@ -6,14 +6,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=10500&color=B4B1FF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25" alt="Progress" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=90&duration=270&pause=3000&color=B4B1FF&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=.;.;.;L+I+F+T+O+F+F++++%F0%9F%9A%80" alt="Liftoff" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=90&duration=270&pause=3000&color=B4B1FF&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=.;.;.;L+I+F+T+O+F+F+!!" alt="Liftoff" /></a>
 
 </div>
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=37&duration=3000&pause=1000&color=6562D7&center=true&vCenter=true&random=false&width=600&lines=Crafting+Stellar+Solutions;Building++Constellations;Architecting+Cosmic+Systems" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="200" />
+
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=6562D7&center=true&vCenter=true&repeat=false&width=300&height=25&lines=Current+Space+Missions" alt="Typing SVG" /></a>
 </div>
 
@@ -25,11 +27,9 @@
   - Contributing to the terraforming project [Pangaia](https://framagit.org/gardeners)
   - Exploring new frontiers in Web3 and AI technologies
 </div>
+
 <div align="center">
-  <img src="gif/gif1.gif" width="100%" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25" /> 
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=6562D7&center=true&vCenter=true&repeat=false&width=300&height=25&lines=Technology+Constellation" alt="Typing SVG" /></a>
 </div>
 
@@ -43,7 +43,6 @@
 
   ![Go](https://img.shields.io/badge/Go-4A148C?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-001F3F?style=for-the-badge&logo=typescript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-4A148C?style=for-the-badge&logo=php&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-001F3F?style=for-the-badge&logo=rust&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-001F3F?style=for-the-badge&logo=bash&logoColor=white)
@@ -68,12 +67,11 @@
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-001F3F?style=for-the-badge&logo=github-actions&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-4A148C?style=for-the-badge&logo=docker&logoColor=white)
 <div align="center">
-  <img src="gif/gif2.gif" width="100%" />
-</div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="200"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" /> 
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=6562D7&center=true&vCenter=true&repeat=false&width=300&height=25&lines=Cosmic+Statistics" alt="Typing SVG" /></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -84,9 +82,12 @@
 
 </p>
 </div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="25" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/New%20Moon.png" alt="New Moon" width="200"/>
+</div>
+<div align="center">
+
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=6562D7&center=true&vCenter=true&repeat=false&width=300&height=25&lines=Last Missions" alt="Typing SVG" /></a>
 </div>
 
@@ -97,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="25" /> 
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=6562D7&center=true&vCenter=true&repeat=false&width=300&height=25&lines=Contact" alt="Typing SVG" /></a>
 </div>
 
@@ -111,7 +112,7 @@
 
 </div>
 <div align="center">
-  <img src="gif/gif3.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" alt="Satellite" width="200"/>
 </div>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
