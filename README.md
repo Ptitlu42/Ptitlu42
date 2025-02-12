@@ -23,7 +23,7 @@
 
 <div align="left" style="padding-left: 20px;">
 
-  - Developing interstellar [SAAS](https://nicely.dev/) solutions at **Nicely**
+  - Developing interstellar [SAAS](https://personal-assistant.app/) solutions at [**Nicely**](https://nicely.dev/)
   - Contributing to the terraforming project [Pangaia](https://framagit.org/gardeners)
   - Exploring new frontiers in Web3 and AI technologies
 </div>
