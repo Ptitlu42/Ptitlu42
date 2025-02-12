@@ -4,7 +4,7 @@
         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2100&color=B4B1FF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=INITIALIZING+LAUNCH+SEQUENCE+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25;SYSTEMS+CHECK+%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25;QUANTUM+ENGINES+ACTIVATED;T-MINUS+3...2...1... Ignition+sequence+start"
         alt="Launch Sequence" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=10500&color=B4B1FF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25" alt="Progress" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=10500&color=B4B1FF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%5D+100%25" alt="Progress" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=90&duration=270&pause=3000&color=B4B1FF&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=.;.;.;L+I+F+T+O+F+F+!!" alt="Liftoff" /></a>
 
@@ -23,9 +23,12 @@
 
 <div align="left" style="padding-left: 20px;">
 
-- Developing interstellar [SAAS](https://personal-assistant.app/) solutions at [**Nicely**](https://nicely.dev/)
-- Contributing to the terraforming project [Pangaia](https://framagit.org/gardeners)
-- Exploring new frontiers in Web3 and AI technologies
+<a href="https://nicely.dev/"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1200&height=30&letterSpacing=5&lines=Developing+interstellar+SAAS+solutions+at+Nicely+-%3E+%F0%9F%9A%80" alt="Mission 1" /></a>
+
+<a href="https://framagit.org/gardeners"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1200&height=30&letterSpacing=5&lines=Contributing+to+the+terraforming+project+Pangaia+-%3E+%F0%9F%AA%90" alt="Mission 2" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1200&height=30&letterSpacing=5&lines=Exploring+new+frontiers+in+Web3+and+AI+technologies" alt="Mission 3" />
+
 </div>
 
 <div align="center">
